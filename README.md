@@ -1,7 +1,7 @@
 # 🐍 Tally Excel to XML Converter (Optimized CLI Tool)
 
 ## 🚀 Project Overview
-This Python-based Command Line Tool is designed to automate the **Bank Statement to Tally Import** process. It converts Excel data into Tally ERP 9 compatible XML format, allowing for bulk voucher import in seconds.
+This Python-based Command Line Tool is designed to automate the **Bank Statement to Tally Import** process. It converts Excel data into **Tally ERP 9** compatible XML format, allowing for bulk voucher import in seconds.
 
 **The Optimization Story:** Originally built using standard libraries (resulting in a 70MB+ file), this tool was re-engineered using **manual spec pruning and UPX compression**, reducing the final size to just **~24 MB** while maintaining the power of Pandas.
 
