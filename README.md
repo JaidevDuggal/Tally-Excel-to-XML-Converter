@@ -19,7 +19,7 @@ This Python-based Command Line Tool is designed to automate the **Bank Statement
 
 **⚠️ IMPORTANT:** This tool works with a specific Excel Template.
 
-1.  **Download the Project ZIP:** [ZIP file Download Link(https://drive.google.com/file/d/1ZzvTSKlvTN9Rorp1lS4rP9usfp1et6yp/view?usp=sharing)]
+1.  **Download the Project ZIP:** [ZIP file Download Link](https://drive.google.com/file/d/1ZzvTSKlvTN9Rorp1lS4rP9usfp1et6yp/view?usp=sharing)
     *(Contains the .EXE file and the Excel Template)*
 2.  **Open `Tally_Import_Template.xlsx`:**
     * Go to the **"Instructions"** sheet. **READ IT CAREFULLY.**
