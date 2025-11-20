@@ -27,7 +27,7 @@ This Python-based Command Line Tool is designed to automate the **Bank Statement
     * **Close the Excel file.**
 3.  **Run the `.exe` file.**
 4.  Paste the **Excel File Path** and **Output Folder Path** when prompted.
-5.  Import the generated `Tally_Import.xml` in Tally via **Import Data > Vouchers**.
+5.  Import the generated `Tally_Import.xml` in Tally via **Gateway of Tally > Import > Vouchers**.
 
 ---
 
